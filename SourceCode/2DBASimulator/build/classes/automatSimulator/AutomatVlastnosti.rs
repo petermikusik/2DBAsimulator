@@ -1,0 +1,2 @@
+automatSimulator.AutomatVlastnosti
+automatSimulator.FileTypeFilter

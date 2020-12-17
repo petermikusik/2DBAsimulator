@@ -1,0 +1,9 @@
+EN:
+You can start the application using 2DBASimulator.jar
+There are 5 cellular automata in folder "CA definitions", which can be read from a file and simulated in the application.
+The SourceCode folder contains a project from the NetBeans development environment.
+
+SK:
+Aplikáciu je možné spustiť pomocou 2DBASimulator.jar
+V priečinku "CA definitions" sa nachádza 5 bunkových automatov, ktoré je možné v aplikáciii načítať zo súboru a vykonávať s nimi simulácie.
+V priečinku SourceCode sa nachádza projekt z vývojového prostredia NetBeans.

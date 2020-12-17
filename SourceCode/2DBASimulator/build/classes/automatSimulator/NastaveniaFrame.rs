@@ -1,0 +1,2 @@
+automatSimulator.ColorColumnCellRenderer
+automatSimulator.NastaveniaFrame
